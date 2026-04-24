@@ -1,4 +1,4 @@
-## HI THERE 👋
+## Hi There 👋
 
 # 💫 About Me:
 I’m Tasfia Tofail, a final-year Computer Science and Engineering student based in Dhaka, Bangladesh, passionate about Artificial Intelligence, Machine Learning, and software development. I enjoy building end-to-end projects—from deep learning models and IoT systems to full-stack web applications.<br><br>I have hands-on experience with technologies like Python, C++, JavaScript, PyTorch,R,Pandas etc and I’ve worked on research-driven projects with published papers in AI and data science. My work reflects a strong interest in solving real-world problems through innovation and intelligent systems.<br><br>I’m currently seeking opportunities in AI/ML and software engineering where I can grow, contribute, and build impactful solution
