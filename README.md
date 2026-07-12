@@ -12,13 +12,6 @@ I’m Tasfia Tofail, a final-year Computer Science and Engineering student based
 ![](https://streak-stats.demolab.com/?user=TasfiaTofail&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TasfiaTofail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TasfiaTofail&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TasfiaTofail&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://komarev.com/ghpvc/?username=TasfiaTofail&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
